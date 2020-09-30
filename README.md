@@ -3,4 +3,3 @@
 ---
 
 Eksempelrepo til git-kurs!
-
